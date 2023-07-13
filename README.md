@@ -44,8 +44,11 @@ pip install -r requirements.txt
 ```
 
 ## Fusion type
+
 **Early_fusion**：早期融合
+
 **Late_fusion**：晚期融合
+
 **Hybrid_fusion**：注意力融合（实际也是混合融合）
 
 ## Run command
@@ -56,6 +59,7 @@ python main.py -h
 ```
 
 **2. 训练**
+
 使用默认参数
 ```bash
 python main.py
